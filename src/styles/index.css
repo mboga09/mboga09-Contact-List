@@ -1,3 +1,16 @@
 /* 
     General Styles
 */
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.navbar-custom {
+    background-color: rgb(243,230,234)!important;
+    /*background-image: url("https://i.pinimg.com/564x/69/aa/80/69aa802e80bd7ef711a353a412d89b03.jpg");*/
+}
+
+.titulo{
+    font-family: "Monospace", Courier New, serif;
+}
